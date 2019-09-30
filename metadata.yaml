@@ -1,0 +1,32 @@
+_repo: Boy-Scouts-in-the-North-Sea-Or-the-Mystery-of-U-13_60345
+_version: 0.0.1
+alternative_title: The War Zone of the Kaiser
+creator:
+  author:
+    agent_name: Ralphson, G. Harvey (George Harvey)
+    aliases:
+    - Ralphson, George H.
+    - Sherman, V. T.
+    - Ralphson, George Harvey
+    birthdate: 1879
+    deathdate: 1940
+    gutenberg_agent_id: '849'
+    url: http://www.gutenberg.org/2009/agents/849
+    wikipedia: http://en.wikipedia.org/wiki/George_Harvey_Ralphson
+description: ''
+gutenberg_issued: '2019-09-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60345'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boy Scouts of America -- Juvenile fiction'
+- !lcsh 'World War, 1914-1918 -- Juvenile fiction'
+- !lcsh 'Submarines (Ships) -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Boy Scouts in the North Sea; Or, the Mystery of "U-13"
+url: http://www.gutenberg.org/ebooks/60345
